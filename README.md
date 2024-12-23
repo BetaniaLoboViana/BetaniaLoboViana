@@ -1,4 +1,4 @@
-# 🌸 Olá! Eu sou a @BetaniaLoboViana  
+#  Olá! Eu sou a @BetaniaLoboViana  
 
 ![Welcome](https://user-images.githubusercontent.com/99263590/196820950-39b89756-9722-4a63-b801-e1df29bc4d06.gif)  
 
@@ -48,7 +48,7 @@
 
 ![ThankYou](https://user-images.githubusercontent.com/99263590/196821181-43f0c03a-bcb1-46af-8012-5c1c0e04b087.gif)  
 
-Obrigada por visitar meu perfil! Sinta-se à vontade para se conectar e colaborar. Vamos criar coisas incríveis juntos! 🌸✨  
+Obrigada por visitar meu perfil! Sinta-se à vontade para se conectar e colaborar. Vamos criar coisas incríveis juntos! ✨  
 
 
 
