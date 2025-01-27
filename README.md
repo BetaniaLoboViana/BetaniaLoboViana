@@ -1,4 +1,4 @@
-#  Olá! Eu sou a @BetaniaLoboViana  
+# Olá! Eu sou a @BetaniaLoboViana  
 
 ![Welcome](https://user-images.githubusercontent.com/99263590/196820950-39b89756-9722-4a63-b801-e1df29bc4d06.gif)  
 
@@ -17,21 +17,27 @@
 ## 🛠️ Minhas Ferramentas e Linguagens  
 
 ### **Linguagens de Programação**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width:40px;height:40px;" alt="C"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width:40px;height:40px;" alt="C++"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:40px;height:40px;" alt="Java"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:40px;height:40px;" alt="Python"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:40px;height:40px;" alt="Shell Bash"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width:40px;height:40px;" alt="PHP"/>  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width:50px;height:50px;" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width:50px;height:50px;" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:50px;height:50px;" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:50px;height:50px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:50px;height:50px;" alt="Shell Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width:50px;height:50px;" alt="PHP"/>
+</div>
 
 ### **Desenvolvimento Web**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:40px;height:40px;" alt="HTML5"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:40px;height:40px;" alt="CSS3"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:40px;height:40px;" alt="JavaScript"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width:40px;height:40px;" alt="Bootstrap"/>  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:50px;height:50px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px;height:50px;" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px;height:50px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width:50px;height:50px;" alt="Bootstrap"/>
+</div>
 
 ### **Banco de Dados**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:40px;height:40px;" alt="MySQL"/>  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:50px;height:50px;" alt="MySQL"/>
+</div>
 
 ### **Administração de Sistemas**  
 - 🐧 **Linux:** Configuração e manutenção básica.  
@@ -41,19 +47,15 @@
 
 ## 📊 Estatísticas do GitHub  
 
+### **Estatísticas de Contribuição**  
 ![Estatísticas do GitHub de Betania](https://github-readme-stats.vercel.app/api?username=BetaniaLoboViana&show_icons=true&theme=cute)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaniaLoboViana&layout=compact&theme=cute)  
+
+### **Linguagens Mais Usadas**  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaniaLoboViana&layout=compact&theme=cute&langs_count=10)
 
 ---
 
-![ThankYou](https://user-images.githubusercontent.com/99263590/196821181-43f0c03a-bcb1-46af-8012-5c1c0e04b087.gif)  
 
-Obrigada por visitar meu perfil! Sinta-se à vontade para se conectar e colaborar. Vamos criar coisas incríveis juntos! ✨  
+Obrigada por visitar meu perfil! Sinta-se à vontade para se conectar e colaborar em projetos interessantes. 🌟
 
-
-
-
-<!---
-BetaniaLoboViana/BetaniaLoboViana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![ThankYou](https://user-images.githubusercontent.com/99263590/196821181-43f0c03a-bcb1-46af-8012-5c1c0e04b087.gif)
