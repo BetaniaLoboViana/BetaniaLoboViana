@@ -51,7 +51,7 @@
 ![Estatísticas do GitHub de Betania](https://github-readme-stats.vercel.app/api?username=BetaniaLoboViana&show_icons=true&theme=cute)  
 
 ### **Linguagens Mais Usadas**  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaniaLoboViana&layout=compact&theme=cute&langs_count=20)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BetaniaLoboViana&layout=compact&theme=cute&langs_count=30)
 
 ---
 
